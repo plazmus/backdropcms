@@ -1,0 +1,7 @@
+name = Search Autocomplete
+description = Provides autocompletion for Drupal search forms and input fields in your site.
+backdrop = 1.x
+type = module
+package = Search
+dependencies[] = views
+configure = admin/config/search/search_autocomplete

@@ -1,0 +1,7 @@
+name = Taxonomy Autocomplete Permission
+description = Defines which roles can add new taxonomy terms when using the autocomplete widget.
+backdrop = 1.x
+type = module
+
+dependencies[] = taxonomy
+

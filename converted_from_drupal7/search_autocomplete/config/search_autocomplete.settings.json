@@ -1,0 +1,5 @@
+{
+    "_config_name": "search_autocomplete.settings",
+    "search_autocomplete_limit": "10",
+    "search_autocomplete_trigger": "3"
+}
